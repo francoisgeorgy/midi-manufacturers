@@ -1,0 +1,16 @@
+{
+  "name": "midi-manufacturers",
+  "version": "1.0.0",
+  "description": "MIDI Manufacturer ID numbers",
+  "main": "index.js",
+  "repository": "https://github.com/francoisgeorgy/midi-manufacturers.git",
+  "author": "François Georgy <francois.georgy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
+}
