@@ -1,8 +1,8 @@
 {
   "name": "midi-manufacturers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MIDI Manufacturer ID numbers",
-  "main": "index.js",
+  "main": "dist/main.js",
   "repository": "https://github.com/francoisgeorgy/midi-manufacturers.git",
   "author": "François Georgy <francois.georgy@gmail.com>",
   "license": "MIT",
