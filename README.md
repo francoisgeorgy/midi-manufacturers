@@ -6,7 +6,7 @@
 
 In your code:
 
-    import midi_name, * as midi_id from "midi-manufacturer-id";
+    import midi_name, * as midi_id from "midi-manufacturers";
     
     console.log(midi_id.FOCUSRITE_NOVATION);                // 00 20 29
     
