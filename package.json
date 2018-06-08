@@ -1,15 +1,26 @@
 {
   "name": "midi-manufacturers",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "MIDI Manufacturer ID numbers",
+  "keywords": [
+    "midi"
+  ],
   "main": "dist/main.js",
   "repository": "https://github.com/francoisgeorgy/midi-manufacturers.git",
-  "author": "François Georgy <francois.georgy@gmail.com>",
+  "bugs": "https://github.com/francoisgeorgy/midi-manufacturers/issues",
+  "author": "François Georgy <francois.georgy@gmail.com> (http://sysex.io)",
   "license": "MIT",
+  "files": [
+    "README.md",
+    "dist/main.js"
+  ],
   "scripts": {
     "build": "webpack --mode production"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3"
   }
